@@ -77,6 +77,13 @@ Linkedin: https://www.linkedin.com/in/abd1rti
 fb: https://www.facebook.com/abd1rti  
 skype: abdullah_rti
 
+
+<b>SAAD</b> <br>
+Email: saad@triangeltech.com<br>
+LinkedIn: https://www.linkedin.com/in/raselhasandurjoy<br>
+Facebook: https://www.facebook.com/raselhasandurjoy<br>
+Company WEB: https://triangeltech.com/ <br>
+Phone: +8801904654712<br>
 ## License
 
 Bus Ticket Reserbation System is licensed under the [MIT license](LICENSE.md).
